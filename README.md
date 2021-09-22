@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm BosToken
 
 
-
-Here are some ideas to get you started:
-
+## About Me
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning laravel, nodejs
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -12,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram](https://www.instagram.com/puckxou/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I do not have any fun fact 🙃
+
 
