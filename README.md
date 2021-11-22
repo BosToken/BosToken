@@ -5,14 +5,14 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BosToken&&show_icons=true&title_color=800080&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
 
 ## About Me
-<!-- - 🔭 I’m currently working on ... -->
+> 🔭 I’m currently study at Universty of Muhammadiyah Malang
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 🌱 I’m currently learning laravel, nodejs
-- 📫 How to reach me: [Instagram](https://www.instagram.com/puckxou/)
-- 😄 Pronouns: He
-- ⚡ Fun fact: I don't have any fun fact 🙃
+> 🌱 I’m currently learning laravel, nodejs
+> 📫 How to reach me: [Instagram](https://www.instagram.com/puckxou/)
+> 😄 Pronouns: He
+> ⚡ Fun fact: I don't have any fun fact 🙃
 
 ## Contact
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6281232857502/?text=Hello,%20I%20See%20Your%20GitHub!)
