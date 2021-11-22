@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning laravel, nodejs
 - 📫 How to reach me: [Instagram](https://www.instagram.com/puckxou/)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I do not have any fun fact 🙃
+- ⚡ Fun fact: I don't have any fun fact 🙃
 
 ## Contact
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6281232857502/?text=Hello,%20I%20See%20Your%20GitHub!)
