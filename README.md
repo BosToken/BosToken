@@ -9,7 +9,7 @@
 > 
 > 🌱 I’m currently learning laravel, nodejs
 >
-> 📫 How to reach me: [Instagram](https://www.instagram.com/puckxou/)
+> 📫 How to reach me: **[Instagram]**(https://www.instagram.com/puckxou/)
 >
 > ⚡ Fun fact: I don't have any fun fact 🙃
 
