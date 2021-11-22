@@ -10,8 +10,9 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 > 🌱 I’m currently learning laravel, nodejs
+
 > 📫 How to reach me: [Instagram](https://www.instagram.com/puckxou/)
-> 😄 Pronouns: He
+
 > ⚡ Fun fact: I don't have any fun fact 🙃
 
 ## Contact
