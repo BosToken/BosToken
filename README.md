@@ -2,10 +2,8 @@
 
 ## Status
 <p align="left">
-<a href="https://github.com/MissterMan">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BosToken&show_icons=true&title_color=800080&icon_color=bb2acf&text_color=daf7dc&bg_color=000000"/>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BosToken&show_icons=true&title_color=800080&icon_color=bb2acf&text_color=daf7dc&bg_color=000000"/>
-</a>
 </p>
 
 ### 📚 Educational Background 
