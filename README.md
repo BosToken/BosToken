@@ -2,7 +2,7 @@
 <details>
   <summary>About Me</summary>
   <br>
-  `Masih belajar, dan masih ingin mencoba yang baru.`
+  ### Masih belajar, dan masih ingin mencoba yang baru.
   
   ### 📚 Educational Background 
   
