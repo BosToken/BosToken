@@ -1,5 +1,4 @@
 ## Hi there, I'm Faiz Diandra Maulana
-  <br>
   "Masih belajar, dan masih ingin mencoba hal baru."
    
   ### 📚 Educational Background 
