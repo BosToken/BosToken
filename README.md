@@ -4,8 +4,6 @@
    
   ### 📚 Educational Background 
   
-  > Student High School Sabilillah Malang
-  
   > Vocational High School SMK Telkom Malang
   
   > University of Muhammadiyah Malang
