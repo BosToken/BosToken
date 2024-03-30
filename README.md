@@ -3,7 +3,7 @@
    
   ### 📚 Educational Background 
   
-  > Vocational High School SMK Telkom Malang
+  > Vocational High School Telkom Malang
   
   > University of Muhammadiyah Malang
   
